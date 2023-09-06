@@ -1,0 +1,16 @@
+<?xml?>
+<workspace>
+	<settings>
+		<label>sp</label>
+	</settings>
+	<users>
+		<user>
+			<path>sp.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>VisualCryptography\VisualCryptography.jcp</path>
+		</project>
+	</projects>
+</workspace>
